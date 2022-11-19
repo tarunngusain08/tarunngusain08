@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ishhyoboytarun](https://github.com/Ishhyoboytarun)
 
-- 💬 Ask me about **DSA, Coding, Music,**
+- 💬 Ask me about **DSA, Coding, Guitar, Flute**
 
 - 📫 How to reach me **https://www.linkedin.com/in/tarun-gusain08/**
 
