@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Dunzo as Backend Engineer**
 
-- 🌱 I’m currently learning **Design Patterns and Low-Level-Design**
+- 🌱 I’m currently learning **Design Patterns and System-Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ishhyoboytarun](https://github.com/Ishhyoboytarun)
 
