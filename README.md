@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **DSA, Coding, Guitar, Flute**
 
-- 📫 How to reach me **https://www.linkedin.com/in/tarun-gusain08/**
+- 📫 How to reach me **https://www.linkedin.com/in/tarunngusain/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G5vTc4se-x9gzp4DkZGMXjFtAFE73wUf/view?usp=share_link](https://drive.google.com/file/d/1Pj6I5GMDyGElIffzhXVb3MYjTEDX9c8C/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-AVzICIYnAkaK_MsXxto27tLeMIwmba4/view?usp=share_link](https://drive.google.com/file/d/1Pj6I5GMDyGElIffzhXVb3MYjTEDX9c8C/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
