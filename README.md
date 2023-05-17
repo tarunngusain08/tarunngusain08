@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DSA, Coding, Guitar, Flute**
 
-- 📫 How to reach me ****https://www.linkedin.com/in/tarunngusain/********
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tarunngusain/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-AVzICIYnAkaK_MsXxto27tLeMIwmba4/view?usp=sharing)
 
