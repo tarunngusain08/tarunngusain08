@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/tarunngusain/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-AVzICIYnAkaK_MsXxto27tLeMIwmba4/view?usp=sharing](https://drive.google.com/file/d/1-AVzICIYnAkaK_MsXxto27tLeMIwmba4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-AVzICIYnAkaK_MsXxto27tLeMIwmba4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
