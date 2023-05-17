@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Design Patterns and System-Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ishhyoboytarun](https://github.com/Ishhyoboytarun)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Ishhyoboytarun)
 
 - 💬 Ask me about **DSA, Coding, Guitar, Flute**
 
-- 📫 How to reach me **https://www.linkedin.com/in/tarunngusain/**
+- 📫 How to reach me ****https://www.linkedin.com/in/tarunngusain/********
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-AVzICIYnAkaK_MsXxto27tLeMIwmba4/view?usp=sharing)
 
