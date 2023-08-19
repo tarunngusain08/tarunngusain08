@@ -1,17 +1,15 @@
 <h1 align="center">Hi👋,  I'm Tarunn</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working in **Dunzo as Backend Engineer**
+- 🔭 I’m currently working in **Oracle as Backend Engineer**
 
-- 🌱 I’m currently learning **Design Patterns and System-Design**
+- 🌱 I’m currently learning **High Level System-Design**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Ishhyoboytarun)
 
-- 💬 Ask me about **DSA, Coding, Guitar, Flute**
+- 💬 Ask me about **System Design, DSA, Coding, Guitar, Flute**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tarunngusain/)
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-AVzICIYnAkaK_MsXxto27tLeMIwmba4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
