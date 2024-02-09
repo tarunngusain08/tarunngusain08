@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **High Level System-Design**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Ishhyoboytarun)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/tarunngusain08)
 
 - 💬 Ask me about **System Design, DSA, Coding, Guitar, Flute**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tarunngusain/), [Gmail](mailto:prudent.tarun0808@gmail.com)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tarunngusain08/), [Gmail](mailto:prudent.tarun0808@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
