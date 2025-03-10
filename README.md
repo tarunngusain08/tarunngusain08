@@ -14,7 +14,7 @@
 - Checkout my [**Portfolio**](portfolio-ishhyoboytaruns-projects.vercel.app/) for knowing more about me.
 
 
-<img width="1085" ![portfolio](https://github.com/user-attachments/assets/2e9014fc-5378-4638-932d-405579553723)>
+<img width="1085" src=https://github.com/user-attachments/assets/2e9014fc-5378-4638-932d-405579553723>
 
 
 <h3 align="left">Connect with me:</h3>
