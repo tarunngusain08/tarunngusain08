@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tarunngusain08/), [Gmail](mailto:prudent.tarun0808@gmail.com)
 
-- Checkout my [portfolio](portfolio-ishhyoboytaruns-projects.vercel.app/) for knowing more about me.
+- Checkout my [**Portfolio**](portfolio-ishhyoboytaruns-projects.vercel.app/) for knowing more about me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
