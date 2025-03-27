@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **System Design, DSA, Coding, Guitar, Flute**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tarunngusain08/), [Gmail](mailto:prudent.tarun0808@gmail.com)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tarunngusain08/), [Gmail](mailto:tarunngusain@gmail.com)
 
 - Checkout my [**Portfolio**](https://portfolio-ishhyoboytaruns-projects.vercel.app/) for knowing more about me.
 
