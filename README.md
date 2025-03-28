@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋,  I'm Tarunn</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working in [Gruve.ai](https://www.gruve.ai/) as **Staff Software Engineer**
+- 🔭 I’m currently working in [Gruve.ai](https://www.gruve.ai/) as **Senior Software Engineer**
 
 - 🌱 I’m currently learning **High Level System-Design**
 
