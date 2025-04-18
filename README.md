@@ -13,9 +13,7 @@
 
 - Checkout my [**Portfolio**](https://portfolio-ishhyoboytaruns-projects.vercel.app/) for knowing more about me.
 
-
-<img width="385" src=https://github.com/user-attachments/assets/2e9014fc-5378-4638-932d-405579553723>
-
+<img width="659" alt="Screenshot 2025-04-18 at 7 46 00 PM" src="https://github.com/user-attachments/assets/5d802173-db27-4676-8e7a-12946d294c27" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
